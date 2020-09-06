@@ -38,7 +38,7 @@ ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c)
 Now you have `ruby` installed on your system.
 
 \
-Next step is to install `Bundler and Jekyl`
+Next step is to install `Bundler and Jekyll`
 To install bundler and Jekyll open terminal and type the following command:
 
 {% highlight ruby %}
