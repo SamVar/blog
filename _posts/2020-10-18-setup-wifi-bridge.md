@@ -2,7 +2,7 @@
 layout: post
 author: "Samvel Vardanyan"
 title: "Setup WiFi Bridge"
-date: 2020-10-19 19:40:00 -0700
+date: 2020-10-18 19:40:00 -0700
 categories: jekyll update
 permelink: /:categories/:year/:month/:day/:title
 ---
