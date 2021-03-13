@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CIT 480 - Senior Design
+title: CIT 481 - Senior Design
 email: samvel.vardanyan.498@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This site was created for  CIT 480 - Senior Design blogs. 
+  This site was created for  CIT 480 and 481 - Senior Design blogs. 
   It has posts about all kind of different stuff that is in technical nature.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
