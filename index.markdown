@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: https://github.com/SamVar/blog/tree/master/assets/images/blog-logo.png
+image: /assets/images/blog-logo.png
 ---
