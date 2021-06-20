@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+<meta
+			name="image"
+			property="og:image"
+			content="https://github.com/SamVar/blog/tree/master/assets/images/blog-logo.png"
+		/>
